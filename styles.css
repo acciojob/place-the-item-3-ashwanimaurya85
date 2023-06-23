@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.flex-container{
+	background-color: red;
+	display:flex;
+	flex-flow: row;
+}
+.a{
+	background-color: blue;
+	padding:10px;
+	margin:10px;
+	width:100px;
+	
+}
