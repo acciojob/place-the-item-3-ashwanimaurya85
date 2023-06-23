@@ -3,7 +3,8 @@
 .holder{
 	background-color: red;
 	display:flex;
-	flex-flow: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
 }
 .a{
 	background-color: blue;
